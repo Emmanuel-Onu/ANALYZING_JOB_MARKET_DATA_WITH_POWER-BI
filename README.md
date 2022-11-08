@@ -223,7 +223,7 @@ An overview of the skills putting together a visual analysis from the percentage
 Skills dashboard
 
 
-#### Company dashboard;
+## Company dashboard;
 
 The company overview includes a visual analysis of the company industry by job position and avg_year of experience, company industry by job posting and avg_year of experience, company industry by the count of job skills, and a table showing company name, job title, and posting count, and a gauge showing avg_pay, avg_minimum pay, and Avg_maximum pay.
 
