@@ -109,7 +109,7 @@ I am investigating what is influencing job market trends. for this, I looked at 
 Effect of years of experience on salaries
 
 
-##ANALYSIS AND VISUALIZATION:
+## ANALYSIS AND VISUALIZATION:
 
 Let's jump into analyzing the job skills column, this column contains values in a list.
 
