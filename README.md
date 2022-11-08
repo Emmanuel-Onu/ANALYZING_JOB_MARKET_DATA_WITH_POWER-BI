@@ -230,9 +230,11 @@ The company overview includes a visual analysis of the company industry by job p
 
 Company dashboard
 
+[Click here](https://app.powerbi.com/groups/me/reports/62624842-b23f-4ef3-9ef4-b91420b8e6fc) to view project on Power-Bi service
+
 I am ready to learn, and open to corrections. Thank you!
 
-[Click to connect with me on Linkedin](https://www.linkedin.com/in/emmanuel-onu-287691165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRvOty7KAQ%2B6gxy3WjazJXg%3D%3D)
+[Click here](https://www.linkedin.com/in/emmanuel-onu-287691165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRvOty7KAQ%2B6gxy3WjazJXg%3D%3D)to connect with me on Linkedin
 
 
 
