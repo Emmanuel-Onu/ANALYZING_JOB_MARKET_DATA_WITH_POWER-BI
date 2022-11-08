@@ -59,7 +59,7 @@ diving deeper into the columns, by looking at column statistics and column distr
 
 ![data check column investigations](https://user-images.githubusercontent.com/106547277/200591713-c2188618-4eba-40e2-b022-02ea2c90e43e.png)
 
-Data column exploration
+                                                Data column exploration
 
 
 #### Exploring Trends In Job Postings Over Time:
@@ -70,7 +70,7 @@ To understand the relationship between time and position level, I would visualiz
 
 ![changes in job positions over time](https://user-images.githubusercontent.com/106547277/200592237-058a7326-8899-49d8-982d-65008312922f.png)
 
-Changes in job positions over time
+                                             Changes in job positions over time
 
 
 
@@ -80,7 +80,7 @@ Datasearch has requested specific analysis of these job titles in Data science; 
 
 ![5 jobs of interest](https://user-images.githubusercontent.com/106547277/200592665-de1b0288-c8d0-4b0e-ad37-784b03431a34.png)
 
-The 5 roles of interest
+                                             The 5 roles of interest
 
 
 
@@ -91,13 +91,13 @@ To determine the minimum and maximum pay average, I used the data analytics expr
 
 ![Average pay calculated column](https://user-images.githubusercontent.com/106547277/200593675-702c137f-95dd-490e-bc16-0f781b530ce9.png)
 
-Average pay calculated column from max_pay and min_pay
+                                        Average pay calculated column from max_pay and min_pay
 
 
 
 ![calculated column 2](https://user-images.githubusercontent.com/106547277/200594021-9d8a4307-5e86-4d05-99ab-fb11399926bf.png)
 
-Average of average pay calculated column
+                                         Average of average pay calculated column
 
 
 #### Effect of years of experience on salary:
@@ -106,7 +106,7 @@ I am investigating what is influencing job market trends. for this, I looked at 
 
 ![Average pay by year of experience and job title](https://user-images.githubusercontent.com/106547277/200594768-f9e51a94-b83b-46f1-880c-c1551b088f18.png)
 
-Effect of years of experience on salaries
+                                        Effect of years of experience on salaries
 
 
 ## ANALYSIS AND VISUALIZATION:
@@ -120,14 +120,15 @@ I need to clean this up to proceed with further analysis.
 
 ![cleaned job skills](https://user-images.githubusercontent.com/106547277/200598186-855022d8-8459-4739-9e0e-432e298b4bf6.png)
 
-Job Skills cleaned up
+                                           Job Skills cleaned up
+
 Job skills are cleaned up, split into rows, and ready for analysis.
 
 I created a visual showing the count of all the different skills.
 
 ![count of job skills by job skills](https://user-images.githubusercontent.com/106547277/200598387-4b940701-d025-4372-828b-d3e7498e76ad.png)
 
-Likelihood of skills in job postings:
+                                     Likelihood of skills in job postings:
 
 
 
@@ -135,7 +136,7 @@ I used the power of DAX to better understand what is the percentage chance that 
 
 ![likelihood of skill DAX](https://user-images.githubusercontent.com/106547277/200598997-eaf4fe01-14c7-4ee8-840b-7bb8c3d95f98.png)
 
-DAX measures
+                                              DAX measures
 
 
 And creating a matrix showing the likelihood that a certain skill will be listed in a job posting.
@@ -151,7 +152,7 @@ It is also necessary to explore how skills in job postings trend over time, to a
 
 ![trend in skills over time](https://user-images.githubusercontent.com/106547277/200599914-edb4efa5-ce66-4bc2-b3d8-489cfe375ecb.png)
 
-The trend in skills over time
+                                          The trend in skills over time
 
 
 #### Deep dive into the five (5) key job analyses:
@@ -168,13 +169,13 @@ I needed to explore better the top companies and industries looking for data sci
 
 ![key job descriptions](https://user-images.githubusercontent.com/106547277/200600167-458cd8a9-55c7-4bf0-968b-c7f130943358.png)
 
-five (5) key job analysis
+                                             five (5) key job analysis
 
 After a thorough analysis of the five (5) key job titles that datasearch suggested, there are other job titles that I could consider and recommend for datasearch that has similar experience requirements.
 
 ![similar job titles](https://user-images.githubusercontent.com/106547277/200600717-b033c76a-ff03-449a-b01d-45ddf8604794.png)
 
-other titles and skills required
+                                           other titles and skills required
 
 this is a distribution of the top 20 job titles with similar skill requirements.
 
@@ -201,7 +202,7 @@ The job, skills, and company icons on the home page are interactive, they are li
 
 ![Home page](https://user-images.githubusercontent.com/106547277/200601015-59e5b1c6-edcf-4678-baef-34a9d24b8d03.png)
 
-## Home Page
+                                                Home Page
 
 
 ## Jobs Dashboard;
@@ -210,7 +211,7 @@ This is an overview of the job visuals which include; Job skills by job title, A
 
 ![jobs page](https://user-images.githubusercontent.com/106547277/200601311-c9941205-8a4b-482b-9ccd-0d378a6aa513.png)
 
-Jobs Dashboard
+                                                Jobs Dashboard
 
 
 ## Skills Dashboard;
@@ -219,7 +220,7 @@ An overview of the skills putting together a visual analysis from the percentage
 
 ![skills page](https://user-images.githubusercontent.com/106547277/200601553-da8ff3ca-ea5b-49bc-b8fa-49e3c899d97d.png)
 
- Skills dashboard
+                                               Skills dashboard
 
 
 #### Company dashboard;
@@ -228,7 +229,7 @@ The company overview includes a visual analysis of the company industry by job p
 
 ![Company overview](https://user-images.githubusercontent.com/106547277/200602012-bdaf32e5-1bde-4d6e-b249-e6c6bc7f7f7b.png)
 
-Company dashboard
+                                              Company dashboard
 
 [Click here](https://app.powerbi.com/groups/me/reports/62624842-b23f-4ef3-9ef4-b91420b8e6fc) to view project on Power-Bi service
 
